@@ -1,4 +1,6 @@
 {
+  "name": "leverxfront",
+  "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
